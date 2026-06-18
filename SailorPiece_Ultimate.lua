@@ -33,6 +33,8 @@ local S = {
     HS = game:GetService("HttpService"), TelS = game:GetService("TeleportService"),
     MS = game:GetService("MarketplaceService"), L = game:GetService("Lighting"),
     Stats = game:GetService("Stats"),
+    CoreGui = game:GetService("CoreGui"),
+    StarterGui = game:GetService("StarterGui"),
 }
 local Player = S.P.LocalPlayer
 local Character = Player.Character or Player.CharacterAdded:Wait()
