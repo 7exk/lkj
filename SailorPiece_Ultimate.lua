@@ -4,8 +4,10 @@
 ║                    ─────────────────────────────────────                         ║
 ║         Le MEILLEUR script Roblox jamais créé - 0 Ban - Farm 24h/24             ║
 ║         Jeu: roblox.com/games/77747658251236/Sailor-Piece                      ║
+║         GitHub: https://github.com/7exk/lkj                                     ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ]]
+-- Utilisation: loadstring(game:HttpGet("https://raw.githubusercontent.com/7exk/lkj/main/SailorPiece_Ultimate.lua"))()
 -- ============================================
 -- CONFIGURATION
 -- ============================================
